@@ -1,0 +1,3 @@
+int a = 10
+str b = "hello"
+float c = 3.14
